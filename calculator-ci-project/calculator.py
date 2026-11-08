@@ -1,5 +1,5 @@
 
-# Calculator Application
+# Calculator application for CI pipeline
 
 def add(a, b):
     return a + b
